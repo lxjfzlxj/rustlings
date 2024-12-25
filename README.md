@@ -1,3 +1,7 @@
+This repo is my rustlings' solutions.
+
+The original rustlings repo is [here](https://github.com/rust-lang/rustlings).
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
